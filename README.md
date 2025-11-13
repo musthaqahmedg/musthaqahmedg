@@ -32,7 +32,8 @@
 
 ### Tools & Technologies  
 - Python  
-- Scikit-learn, TensorFlow, Keras  
+- Scikit-learn  
+- TensorFlow / Keras  
 - OpenCV  
 - Pandas & NumPy  
 - Flask / FastAPI  
@@ -43,27 +44,52 @@
 
 ## 🚧 Projects  
 
-### Facial Expression Recognition (Low-Quality Images)  
-Built a CNN model with augmentation & preprocessing.
+### Occluded Facial Expression Recognition (Real-World Conditions)
+Developed a robust CNN-based model to recognize facial expressions even under:
+- Partial occlusion (hands, hair, glasses, masks)  
+- Poor lighting & low-resolution images  
+- Side-angle and partially hidden faces  
+
+Key contributions:
+- Created a custom dataset with simulated occlusions  
+- Built augmentation pipeline (blur, noise, shadow, occlusion masks)  
+- Preprocessing workflow for difficult real-world scenarios  
+- Fine-tuned model to improve robustness & accuracy  
+
+Tech: Python, TensorFlow/Keras, OpenCV, Data Augmentation, Deep Learning  
+
+---
+
+### Facial Expression Recognition (Standard Images)  
+Built a CNN model with data preprocessing, normalization, and augmentation to classify facial expressions under standard image conditions.
+
+---
 
 ### Sentiment Analysis using Twitter Data  
-End-to-end pipeline: API → cleaning → ML → insights.
+End-to-end NLP pipeline:  
+API extraction → cleaning → tokenization → ML model → insights.
+
+---
 
 ### Image Classification Models  
-Deep learning for multi-class and object detection tasks.
+Deep learning-based models for multi-class image classification and object detection.
+
+---
 
 ### User Behavior Pattern Analysis  
-Used NLP & ML to analyze real-world user interaction trends.
+Used NLP & ML techniques to extract insights from user interaction logs.
+
+---
 
 ### Data Automation Pipelines  
-Automated preprocessing for text & image datasets.
+Automated preprocessing for text & image datasets to prepare clean ML-ready data.
 
 ---
 
 ## 📚 Currently Learning  
 - Docker & containerization  
-- FastAPI for model deployment  
-- Transformers (BERT / GPT)  
+- FastAPI for ML deployment  
+- Transformers (BERT / GPT models)  
 - MLOps basics  
 
 ---
@@ -84,3 +110,4 @@ Automated preprocessing for text & image datasets.
 
 ## ⚡ Fun Fact  
 I love building smart systems that solve everyday problems.
+
