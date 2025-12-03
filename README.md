@@ -1,113 +1,114 @@
 # 👋 Hi, I'm Musthaq Ahmed Gaffoor  
-**AI/ML Engineer | Data Scientist | NLP & Computer Vision Enthusiast | Automation Developer**
+**AI/ML Engineer | Python Developer | Automation & RAG Enthusiast | Exploring Agentic AI**
 
-## 🚀 About Me  
-- Second Master’s Degree in Artificial Intelligence  
-- Hands-on experience in Data Science & AI  
-- Specialized in NLP, Computer Vision, and Deep Learning  
-- Strong Python developer  
-- Comfortable working in Linux environments  
-- Experienced with real datasets, APIs, and ML workflows  
+I build intelligent systems using Machine Learning, NLP, Computer Vision, and Automation.  
+Currently building my AI Engineer portfolio — one project at a time.
 
 ---
 
-## 🧠 Core Skills  
+## 🚀 About Me
+- 🎓 Two Master’s Degrees (Artificial Intelligence & Computer Applications)  
+- 🔬 Strong experience in AI/ML, NLP, Computer Vision, and Deep Learning  
+- 🐍 Python developer focused on automation & data workflows  
+- 🐧 Comfortable working in Linux environments  
+- 📊 Experienced with real datasets, APIs, and transforming raw data into insights  
+- 🤖 Passionate about building *agentic AI pipelines* and automation tools  
 
-### Machine Learning & Deep Learning  
+---
+
+## 💡 What I Do
+- Build ML/NLP/Computer Vision models  
+- Automate boring tasks using Python  
+- Create end-to-end AI/ML workflows  
+- Develop APIs and backend AI systems  
+- Document projects cleanly for GitHub & portfolio  
+- Study and implement RAG, LLMs, and agentic systems  
+
+---
+
+## 🧠 Core Skills
+
+### **Machine Learning & Deep Learning**
 - Regression, Classification, Clustering  
 - CNNs, RNNs, LSTMs  
-- Model training, evaluation, fine-tuning  
+- Model training, tuning, evaluation  
+- Feature engineering, preprocessing  
 
-### Natural Language Processing (NLP)  
-- Text preprocessing  
-- Sentiment analysis  
-- Twitter data extraction  
-- NER, keyword extraction  
+### **Natural Language Processing (NLP)**
+- Text preprocessing & embeddings  
+- NER, sentiment analysis  
+- Transformers (BERT, GPT, RoBERTa)  
+- RAG pipelines & retrieval systems  
 
-### Computer Vision  
+### **Computer Vision**
 - Image classification  
-- Object detection  
+- Object detection (YOLO, Faster R-CNN)  
 - Image segmentation  
-- OpenCV image processing & augmentation  
+- OpenCV for preprocessing  
 
-### Tools & Technologies  
-- Python  
-- Scikit-learn  
-- TensorFlow / Keras  
-- OpenCV  
-- Pandas & NumPy  
-- Flask / FastAPI  
-- Linux  
-- Automation scripting  
+### **Tools & Technologies**
+Python • PyTorch • TensorFlow • Scikit-learn • NumPy • Pandas  
+OpenCV • FastAPI • REST APIs  
+Linux • Docker • Jupyter • Git • PostgreSQL  
+Agentic AI • Automation Scripting  
 
 ---
 
-## 🚧 Projects  
+## 🧩 Current Projects (2025 AI Portfolio)
 
-### Occluded Facial Expression Recognition (Real-World Conditions)
-Developed a robust CNN-based model to recognize facial expressions even under:
-- Partial occlusion (hands, hair, glasses, masks)  
-- Poor lighting & low-resolution images  
-- Side-angle and partially hidden faces  
+### 🔹 1. **PDF Text Extractor (Automation Tool)**  
+Small Python script that extracts text from any PDF using PyPDF2.  
+Goal: Practice automation + scripts that save time.  
+👉 Repo: `pdf-text-extractor`
 
-Key contributions:
-- Created a custom dataset with simulated occlusions  
-- Built augmentation pipeline (blur, noise, shadow, occlusion masks)  
-- Preprocessing workflow for difficult real-world scenarios  
-- Fine-tuned model to improve robustness & accuracy  
+### 🔹 2. **OCR + Image Processing (Coming soon)**  
+Extracting text from images using Tesseract + OpenCV.
 
-Tech: Python, TensorFlow/Keras, OpenCV, Data Augmentation, Deep Learning  
+### 🔹 3. **Basic RAG System (Coming soon)**  
+Upload a PDF → convert to chunks → embed → build Q&A chatbot.
 
----
+### 🔹 4. **API Automation Projects (Coming soon)**  
+Using requests + FastAPI to automate workflows.
 
-### Facial Expression Recognition (Standard Images)  
-Built a CNN model with data preprocessing, normalization, and augmentation to classify facial expressions under standard image conditions.
+More projects will be published weekly.
 
 ---
 
-### Sentiment Analysis using Twitter Data  
-End-to-end NLP pipeline:  
-API extraction → cleaning → tokenization → ML model → insights.
+## 📘 Learning Roadmap (2025)
+
+### 🔹 **Phase 1 — Python + Automation**
+- Python scripting  
+- File & API automation  
+- Building 10 automation tools  
+
+### 🔹 **Phase 2 — AI/ML Engineering**
+- Scikit-learn ML pipelines  
+- Deep Learning fundamentals  
+- Computer Vision & NLP  
+
+### 🔹 **Phase 3 — Modern AI (LLM + RAG + Agents)**
+- Vector databases  
+- LangChain basics  
+- Build your first RAG project  
+- Create agentic workflows  
 
 ---
 
-### Image Classification Models  
-Deep learning-based models for multi-class image classification and object detection.
-
----
-
-### User Behavior Pattern Analysis  
-Used NLP & ML techniques to extract insights from user interaction logs.
-
----
-
-### Data Automation Pipelines  
-Automated preprocessing for text & image datasets to prepare clean ML-ready data.
-
----
-
-## 📚 Currently Learning  
-- Docker & containerization  
-- FastAPI for ML deployment  
-- Transformers (BERT / GPT models)  
-- MLOps basics  
-
----
-
-## 🤝 Collaboration Interests  
+## 🤝 Collaboration Interests
 - AI/ML projects  
 - NLP tools  
-- Computer Vision workflows  
+- CV workflows  
 - Python automation  
+- Building agentic systems  
 
 ---
 
 ## 📫 Contact  
-**Email:** musthaq258@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/musthaq-ahmed-gaffoor-a24929236/
+- **Email:** musthaq258@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/musthaq-ahmed-gaffoor-a24929236/  
 
 ---
 
 ## ⚡ Fun Fact  
-I love building smart systems that solve everyday problems.
+I love building smart systems that solve everyday problems — one project at a time.
 
