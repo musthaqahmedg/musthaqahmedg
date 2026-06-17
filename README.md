@@ -7,7 +7,7 @@ Currently building my AI Engineer portfolio — one project at a time.
 ---
 
 ## 🚀 About Me
-- 🎓 Two Master’s Degrees (Artificial Intelligence & Computer Applications)  
+- 🎓 Two Master's Degrees (Artificial Intelligence & Computer Applications)  
 - 🔬 Strong experience in AI/ML, NLP, Computer Vision, and Deep Learning  
 - 🐍 Python developer focused on automation & data workflows  
 - 🐧 Comfortable working in Linux environments  
@@ -54,23 +54,27 @@ Agentic AI • Automation Scripting
 
 ---
 
-## 🧩 Current Projects (2025 AI Portfolio)
+## 🧩 Highlighted Projects
 
-### 🔹 1. **PDF Text Extractor (Automation Tool)**  
+### 🔹 **Facial Expression Recognition from Low-Quality Images with Occlusion** ⭐
+My MSc research project tackling emotion detection in challenging real-world conditions. Novel pipeline: ESRGAN → GLIDE Inpainting → FER Models. 9 architectures tested, ResNet50 achieved 85.71% on FER2013.  
+👉 Repo: `-fer-occlusion`
+
+### 🔹 **Layover Friends – Airport Networking App** ⭐
+AI-powered Flutter app connecting travelers during airport layovers. Real-time chat, Offers Board, AI Travel Assistant. Firebase + FastAPI backend.  
+👉 Repo: `layover_friends`
+
+### 🔹 **Enterprise AI Job Platform**
+Production-ready FastAPI backend for resume skill extraction and job matching. Docker containerized, deployed on Render.  
+👉 Repo: `enterprise-ai-job-platform`
+
+### 🔹 **Resume Skill Extractor**
+Python tool that extracts skills from resume PDFs using keyword matching and categorization.  
+👉 Repo: `resume-skill-extractor`
+
+### 🔹 **PDF Text Extractor (Automation Tool)**
 Small Python script that extracts text from any PDF using PyPDF2.  
-Goal: Practice automation + scripts that save time.  
 👉 Repo: `pdf-text-extractor`
-
-### 🔹 2. **OCR + Image Processing (Coming soon)**  
-Extracting text from images using Tesseract + OpenCV.
-
-### 🔹 3. **Basic RAG System (Coming soon)**  
-Upload a PDF → convert to chunks → embed → build Q&A chatbot.
-
-### 🔹 4. **API Automation Projects (Coming soon)**  
-Using requests + FastAPI to automate workflows.
-
-More projects will be published weekly.
 
 ---
 
@@ -111,4 +115,3 @@ More projects will be published weekly.
 
 ## ⚡ Fun Fact  
 I love building smart systems that solve everyday problems — one project at a time.
-
